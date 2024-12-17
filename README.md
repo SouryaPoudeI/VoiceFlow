@@ -1,1 +1,1 @@
-This repository is solely the property of Sourya Poudel.
+This repository is the official details of VoiceFLow- A completely voice automated curtain system made by Sourya Poudel.
