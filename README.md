@@ -85,7 +85,7 @@ Now, your **ESP8266** control from the mobile app is ready.
 
 ---
 
-#### **4. Enable Voice Control with IFTTT**
+#### **4. Enable Voice Control with IFTTT** [Free Alternative: Use the Python Code attached with the webhook url made as mentioned below]
 1. **Login to IFTTT**  
    - Navigate to [IFTTT](https://ifttt.com).  
    - Go to **Create** to make a new applet.  
