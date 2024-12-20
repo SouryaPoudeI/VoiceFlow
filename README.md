@@ -1,7 +1,7 @@
 This repository is the official details of VoiceFLow- A completely voice automated curtain system made by Sourya Poudel.
 
 Circuit Diagram:
-![image](https://github.com/user-attachments/assets/3fa7ea61-bceb-41b5-81c4-5d797ac05eb0)
+![image](https://github.com/user-attachments/assets/6137809c-6d4c-45ab-bcf5-aea0741e98ec)
 
 ### Instructions for Setting Up Blynk and IFTTT for Motor Control
 
